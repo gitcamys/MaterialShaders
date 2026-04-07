@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "creativecore-shaders-2021.3LTS.sln"
+    "dotnet.defaultSolution": "Creativecore.sln"
 }
